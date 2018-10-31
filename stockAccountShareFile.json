@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "ShareName": "oneplus",
+            "symbol": "ops",
+            "sharePrice": 13
+        },
+        {
+            "ShareName": "samsung",
+            "symbol": "smg",
+            "sharePrice": 23
+        },
+        {
+            "ShareName": "nokia",
+            "symbol": "nka",
+            "sharePrice": 15
+        },
+        {
+            "ShareName": "xiaomi",
+            "symbol": "mi",
+            "sharePrice": 10
+        },
+        {
+            "ShareName": "apple",
+            "symbol": "apl",
+            "sharePrice": 20
+        },
+        {
+            "ShareName": "motorola",
+            "symbol": "mot",
+            "sharePrice": 7
+        }
+    ]
+}

@@ -28,6 +28,7 @@
             $fileC = fopen($file,"r") or die("unable to open");
 
             return fread($fileC, filesize($file));
+            fclose($fileC);
         }
 
         /**
